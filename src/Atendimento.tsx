@@ -12,7 +12,7 @@ import { Link } from "react-router-dom";
 function AtendimentolistadeCVT() {
   return (
    
-   <body className='pagina'>
+   <body className='pagina-atendimento'>
     <section className="sectionUser">
     <div className="user">
     <div className="center">
